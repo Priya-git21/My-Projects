@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+.bg {
+    background-image: linear-gradient(180deg, #454343, Black);
+}
+
+.h1 {
+    font-family: 'Fredericka the Great', cursive;
+}
+
+img {
+    border-radius: 48px 8px 48px 8px;
+}

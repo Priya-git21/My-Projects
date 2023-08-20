@@ -1,0 +1,31 @@
+.text {
+    font-size: 20px;
+}
+
+.textArea {
+    height: 30vh;
+    width: 70vw;
+    resize: none;
+    border-radius: 8px;
+    border: 1.5px solid black;
+}
+
+.btn {
+    margin: 3px;
+}
+
+.copyAlert {
+    width: fit-content;
+    margin: 5px;
+    height: auto;
+}
+
+.h5 {
+    padding-top: -5px;
+    text-align: center;
+    justify-content: center;
+}
+
+.color{
+    font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+}
